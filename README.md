@@ -22,8 +22,8 @@ Binary classification is a form of classification — the process of predicting 
 ```
 /*
 Program to implement binary classification.
-Developed by:
-RegisterNumber:  
+Developed by:KUMARAVEL V
+RegisterNumber: 212220230027
 */
 ```
 ```python
